@@ -16,6 +16,9 @@
     "Age": {
       "type": "number",
       "required": true
+    },
+    "City": {
+      "type": "string"
     }
   },
   "validations": [],
