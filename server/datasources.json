@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongods": {
+    "host": "ds119059.mlab.com",
+    "port": 19059,
+    "url": "mongodb://admin:admin123@ds119059.mlab.com:19059/testapi",
+    "database": "testapi",
+    "password": "admin123",
+    "name": "mongods",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}
